@@ -9,9 +9,3 @@ The **Pump.fun Smart Contract** is an innovative platform  designed to allow use
 - **Pool Management**: Add and remove liquidity in Raydium pools. Burn SPL tokens efficiently.
 - **Spam Detection**: Automatically catch and handle spammers making transactions to the OpenBook market.
 - **Discord Integration**: Receive real-time notifications on Discord via webhooks.
-
-# Contact
-If you have any questions or want more customized app for specific use cases, please feel free to contact me to below contacts.
-
-- E-Mail: adamglab0731.pl@gmail.com
-- Telegram: [@bettyjk_0915](https://t.me/bettyjk_0915)
